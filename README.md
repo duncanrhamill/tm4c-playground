@@ -4,7 +4,7 @@ This crate is a playground for testing rust on the TM4C123GPMH.
 
 [`cortex-m-quickstart`](https://github.com/rust-embedded/cortex-m-quickstart)
 was used as the base for this crate. The
-[`empty`](/duncanrhamill/tm4c-playground/empty) branch contains a blank
+[`empty`](https://github.com/duncanrhamill/tm4c-playground/tree/empty) branch contains a blank
 configuration of the quickstart project which compiles and runs on the TM4C.
 
 ## Building and running
